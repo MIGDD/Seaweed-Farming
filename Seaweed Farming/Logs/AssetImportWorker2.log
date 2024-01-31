@@ -1,0 +1,515 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 32489 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+52001
+Successfully changed project path to: C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
+C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5700] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 1590866514 [EditorId] 1590866514 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [5700] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 1590866514 [EditorId] 1590866514 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 16.74 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.46 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon Pro W5500 (ID=0x7341)
+    Vendor:   ATI
+    VRAM:     8151 MB
+    Driver:   31.0.12016.9
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004027 seconds.
+- Loaded All Assemblies, in  0.230 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.183 seconds
+Domain Reload Profiling: 412ms
+	BeginReloadAssembly (76ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (86ms)
+		LoadAssemblies (75ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (84ms)
+			TypeCache.Refresh (83ms)
+				TypeCache.ScanAssembly (74ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (183ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (143ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (99ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.520 seconds
+Refreshing native plugins compatible for Editor in 9.99 ms, found 12 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:287 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x00084] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:272 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <78fe3e0b66cf40fc8dbec96aa3584483>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.470 seconds
+Domain Reload Profiling: 988ms
+	BeginReloadAssembly (101ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (359ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (135ms)
+			TypeCache.Refresh (115ms)
+				TypeCache.ScanAssembly (103ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (470ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (363ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (260ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 9.58 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4518 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 89 unused Assets / (0.6 MB). Loaded Objects now: 4979.
+Memory consumption went from 167.8 MB to 167.2 MB.
+Total: 3.012900 ms (FindLiveObjects: 0.252000 ms CreateObjectMapping: 0.122200 ms MarkObjects: 2.432700 ms  DeleteObjects: 0.205200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/VignetteModel.cs:  -> ab6733272f937ac0155aab47b4a8e58e
+  custom:scripting/monoscript/fileName/EyeAdaptationModel.cs:  -> 5bcc92c7d981d480ed07d6af7dd1a959
+  custom:scripting/monoscript/fileName/ExampleWheelController.cs:  -> 9600d370c57ff0da5766666ba4365a29
+  custom:scripting/monoscript/fileName/GetSetAttribute.cs:  -> b786c1938e0c0f5ecaf463807c2d7653
+  custom:scripting/monoscript/fileName/PostProcessingContext.cs:  -> be8a0bc1565c6324b1fd40a33f66279b
+  custom:scripting/monoscript/fileName/EyeAdaptationComponent.cs:  -> 0cb2aaf8cdc20c0baee2205168cbc73c
+  custom:scripting/monoscript/fileName/FxaaComponent.cs:  -> 9d1fd3efb92e1fef6fd176ee45003f08
+  custom:scripting/monoscript/fileName/DitheringModel.cs:  -> fa99c50231ddc7ca26b5d6c9a68b4b31
+  custom:scripting/monoscript/fileName/TrackballAttribute.cs:  -> f1962deba67196a6cd6b7953be1caf36
+  custom:scripting/monoscript/fileName/PostProcessingProfile.cs:  -> e94a21971fab43a541218a4f91e0403c
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsModel.cs:  -> 4a09809f2c0ed6cca27229b06ce1d289
+  custom:scripting/monoscript/fileName/RenderTextureFactory.cs:  -> b11bc916a1a88ed67d986ee69a536511
+  custom:scripting/monoscript/fileName/CharController_Motor.cs:  -> 95ad6a9e9f41b77ac8821bbc7a22986e
+  custom:scripting/monoscript/fileName/DepthOfFieldModel.cs:  -> ab243c09a4b44fd7a53f73051db01cbc
+  custom:scripting/monoscript/fileName/FPSDisplay.cs:  -> 4de2b1268e0d108618b876b31a439b05
+  custom:scripting/monoscript/fileName/ColorGradingModel.cs:  -> d1c2ef15f5e9e4868052777d51361b40
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionModel.cs:  -> 507d9c80d381478e1c14f5bfe34012ae
+  custom:scripting/monoscript/fileName/TrackballGroupAttribute.cs:  -> 6d071733b141a3fb3360b110560ed1cc
+  custom:scripting/monoscript/fileName/BloomComponent.cs:  -> 755f611bb4d32a54d162192a9fc6dd86
+  custom:scripting/monoscript/fileName/MotionBlurComponent.cs:  -> 6cf5a99eefa473d803af3e64f841a0a6
+  custom:scripting/monoscript/fileName/WaterFloat.cs:  -> 7ac8cb1106d215ea46d43dade9dd92c7
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsComponent.cs:  -> 1b8215a7f6eae55c3fc6a97379498db3
+  custom:scripting/monoscript/fileName/AmbientOcclusionModel.cs:  -> ac26bcd19cab8c88e9b65cb75ee1c356
+  custom:scripting/monoscript/fileName/DisableRenderer.cs:  -> 9cd9383a8381a51854f8fab592706848
+  custom:scripting/monoscript/fileName/AmbientOcclusionComponent.cs:  -> ae5a7089fb97a5a97a8f11138ce7c9d2
+  custom:scripting/monoscript/fileName/GraphicsUtils.cs:  -> f7df21c2acb52bb931f99c0a424b6be0
+  custom:scripting/monoscript/fileName/DepthOfFieldComponent.cs:  -> b0afd8f8844e3e4017df6130c14d0dfc
+  custom:scripting/monoscript/fileName/ColorGradingCurve.cs:  -> e1e989893ee31e7801923212f0468312
+  custom:scripting/monoscript/fileName/AntialiasingModel.cs:  -> 325b0130eaada61513aeac7b8c97a9d7
+  custom:scripting/monoscript/fileName/ChromaticAberrationModel.cs:  -> 3f166f1ecbc6f39ed2f6b10cbc5b4ba4
+  custom:scripting/monoscript/fileName/TaaComponent.cs:  -> 7c343e97072a6712c3a2b01e75fdb7fa
+  custom:scripting/monoscript/fileName/PostProcessingModel.cs:  -> 2f64caba6afa59bc78865f13b6f9065d
+  custom:scripting/monoscript/fileName/ChromaticAberrationComponent.cs:  -> cda95994b71ba23d0c0f0fe0f241aab9
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionComponent.cs:  -> 79ad7ef64576d014e73a91b6c3af0688
+  custom:scripting/monoscript/fileName/MotionBlurModel.cs:  -> 4e24ef1d444a45a9e0056ed75c7c7eb7
+  custom:scripting/monoscript/fileName/PostProcessingComponent.cs:  -> 85236d6b86a55b2f46a14367ab625049
+  custom:scripting/monoscript/fileName/MaterialFactory.cs:  -> 39b00f1518fc675c62e508eb4bdec486
+  custom:scripting/monoscript/fileName/ColorGradingComponent.cs:  -> fc28099e3cee649b1f5925a07b57ea96
+  custom:scripting/monoscript/fileName/UserLutModel.cs:  -> ce559ad59b29fc066f37249281afd441
+  custom:scripting/monoscript/fileName/MinAttribute.cs:  -> 941c73502025168e3301edfeaed1b25e
+  custom:scripting/monoscript/fileName/GrainComponent.cs:  -> fae958f48caa0fab6bcf7f9c48b915e1
+  custom:scripting/monoscript/fileName/FogComponent.cs:  -> 2dfe6d4c859eabd11b82ff8fc7d7ad22
+  custom:scripting/monoscript/fileName/VignetteComponent.cs:  -> 293deb083808f71d2d18d818ef588272
+  custom:scripting/monoscript/fileName/FogModel.cs:  -> c4cd4da1fb97c7abf787083602f52bf5
+  custom:scripting/monoscript/fileName/DitheringComponent.cs:  -> 83d905897534466960141b85361bb6b4
+  custom:scripting/monoscript/fileName/UserLutComponent.cs:  -> 944143ce5f543a40c92ecea777f35ae4
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp:  -> 38aa147917adbabf23d13ba7ab20c40d
+  custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
+  custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
+  custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Import Request.
+  Time since last request: 1259996.414671 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs
+  artifactKey: Guid(011107e2e56b7e54488ec07820f78cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs using Guid(011107e2e56b7e54488ec07820f78cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180515d88c06c0509f88deeb92554f2b') in 0.002810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.077202 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Fisher_Boat.prefab
+  artifactKey: Guid(e505ad6aa92b701429ccea3dac7fece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Fisher_Boat.prefab using Guid(e505ad6aa92b701429ccea3dac7fece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709edfc30c37f36d95254c29bd8e7f40') in 0.221319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 13.271342 seconds.
+  path: Assets/Flooded_Grounds/Prefabs
+  artifactKey: Guid(4bd36e038f7e7884baea499e908b3aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Prefabs using Guid(4bd36e038f7e7884baea499e908b3aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b138704372eebbdfe9dea8fc00d31e') in 0.000447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.851876 seconds.
+  path: Assets/Flooded_Grounds/Prefabs/Nature
+  artifactKey: Guid(0878710220c7c464898af89ad4d731b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Prefabs/Nature using Guid(0878710220c7c464898af89ad4d731b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe2886ebef63fbd4dff0a6d9b0aabb4') in 0.000380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.670974 seconds.
+  path: Assets/Flooded_Grounds/Scenes/Postprocess_FloodedGrounds.asset
+  artifactKey: Guid(29ac70c6bc481c64fb76807cbc16dc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Scenes/Postprocess_FloodedGrounds.asset using Guid(29ac70c6bc481c64fb76807cbc16dc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917e719cfe46d21a3fb1b0181d8a0145') in 0.001094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.335271 seconds.
+  path: Assets/Flooded_Grounds/Scenes/PreAsembeld_Buildings.unity
+  artifactKey: Guid(becca19b86da74b4696c89ff8d644228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Scenes/PreAsembeld_Buildings.unity using Guid(becca19b86da74b4696c89ff8d644228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9be102c398acd44280289fa8521c66') in 0.000490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.725003 seconds.
+  path: Assets/Flooded_Grounds/Scenes/Scene_A.unity
+  artifactKey: Guid(c0d944ca9defd20449bc336e50d75a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Scenes/Scene_A.unity using Guid(c0d944ca9defd20449bc336e50d75a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1707fb4922e1813498c1305edd7f7f2') in 0.000358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 69.024206 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GR_Asphalt1_ASGR_Asphalt1_Nd261c09ae55ba1e3.terrainlayer
+  artifactKey: Guid(aca65b2b87238614a8e577824ba09a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GR_Asphalt1_ASGR_Asphalt1_Nd261c09ae55ba1e3.terrainlayer using Guid(aca65b2b87238614a8e577824ba09a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af92dc16bd46c2c8f71980d5c45c4aa') in 0.052491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 15.555309 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes
+  artifactKey: Guid(b0c2362a8da0821488cf6e1395a8d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes using Guid(b0c2362a8da0821488cf6e1395a8d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360b4f4388edb245e49366436a35ab00') in 0.000580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.347741 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature
+  artifactKey: Guid(e4b84be99c335444384c2ebdf9e8c224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature using Guid(e4b84be99c335444384c2ebdf9e8c224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65180c340a6873736afe14eeb5634b63') in 0.000409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.877931 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mAtmospherics/ATM_HaloRing.fbx
+  artifactKey: Guid(8cc47016f547a024692210de2e4869cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mAtmospherics/ATM_HaloRing.fbx using Guid(8cc47016f547a024692210de2e4869cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92437af3f99096b6a99d4ae3aa502a6d') in 0.100864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.243694 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Factory_A.fbx
+  artifactKey: Guid(a201c7c761d9632468fb3896c03314d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Factory_A.fbx using Guid(a201c7c761d9632468fb3896c03314d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5677a42ed80d2dda98685a7f7ba9b282') in 0.018589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Pipe_B.fbx
+  artifactKey: Guid(99ccd835683a68c4390956909c69bd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Pipe_B.fbx using Guid(99ccd835683a68c4390956909c69bd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6be98402d6ff7d8046136c6c57c427') in 0.015843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Pipe_A.fbx
+  artifactKey: Guid(fd9cd53bb7e310247bfef62bfd33b864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_Pipe_A.fbx using Guid(fd9cd53bb7e310247bfef62bfd33b864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0819d7f3e8a772fd2fb18e61cb9864') in 0.015623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/WaterPlane.fbx
+  artifactKey: Guid(c292a97ca5b44af428ac393c78fd8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/WaterPlane.fbx using Guid(c292a97ca5b44af428ac393c78fd8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566478be8c743ba6d9bc19ccae4a33ae') in 0.015945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_LargePipe_A.fbx
+  artifactKey: Guid(40477e487f4bf334cbc3a784a139828b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/BGR_LargePipe_A.fbx using Guid(40477e487f4bf334cbc3a784a139828b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a27a121db7f6c0323df4541f18e294f') in 0.014516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 8.075602 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mHelpers/HumanScale.fbx
+  artifactKey: Guid(34994d1b2ee76914f84faad1b7904b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mHelpers/HumanScale.fbx using Guid(34994d1b2ee76914f84faad1b7904b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50b992f7d65b336a98e97b0cc36e3ce') in 0.023026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 1.598162 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Bed_A.fbx
+  artifactKey: Guid(337f3f3b50efced47b00720a0728d606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Bed_A.fbx using Guid(337f3f3b50efced47b00720a0728d606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41b564b9729d8aad097e7cccbfde364') in 0.031785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Rug_D.fbx
+  artifactKey: Guid(7e7505ef3e6f0704b9e46255c4add97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Rug_D.fbx using Guid(7e7505ef3e6f0704b9e46255c4add97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2901491a7ddab6d1b1f9ddc5658582') in 0.015826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Cabinet_B.fbx
+  artifactKey: Guid(3cc4c6ec1bbd75742867e5f50b178edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Cabinet_B.fbx using Guid(3cc4c6ec1bbd75742867e5f50b178edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf40615f9f66cb9f1ea89c656ff9c97') in 0.024260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Car1_DM.fbx
+  artifactKey: Guid(8acc190dad5b9744fab16f0792a78ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Car1_DM.fbx using Guid(8acc190dad5b9744fab16f0792a78ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2cf7cc0cf9514f6623cb3b9645a939') in 0.039396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Ship_A.fbx
+  artifactKey: Guid(d7331aa52cb7719449bc9e0fbb3f671c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Ship_A.fbx using Guid(d7331aa52cb7719449bc9e0fbb3f671c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdecb08ae770f0dbf5a52ceec91d9912') in 0.051121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Rug_C.fbx
+  artifactKey: Guid(513499f9d76de634cbcfe89284395a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/Prop_Rug_C.fbx using Guid(513499f9d76de634cbcfe89284395a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae49f9dfab140a659d2540e2bd7ca8c') in 0.014075 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_ParkBench_A.fbx
+  artifactKey: Guid(ac768e201f97ed847a2a9fd96cac3557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_ParkBench_A.fbx using Guid(ac768e201f97ed847a2a9fd96cac3557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76de89cce21121a500fc7a2c19a8fe43') in 0.033644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Lamp_A.fbx
+  artifactKey: Guid(fbb069574c0f0f64a9948fb3e94e2572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Lamp_A.fbx using Guid(fbb069574c0f0f64a9948fb3e94e2572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103c637f768c539f5a0197a481c193f1') in 0.025051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Gravestone_E.fbx
+  artifactKey: Guid(24a2b31c7fe676840828c2b1be5636c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Gravestone_E.fbx using Guid(24a2b31c7fe676840828c2b1be5636c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d25ad9eb837220349c1abf4cca786f') in 0.018126 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Gravestone_B.fbx
+  artifactKey: Guid(77f6b03b6e453ae479b40116e9371dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Gravestone_B.fbx using Guid(77f6b03b6e453ae479b40116e9371dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af37af62a83bafeafcd8ea9ddd965b39') in 0.014868 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Car_A.fbx
+  artifactKey: Guid(320890f06b29ef743af9c7fa85b2ef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mProps/lo_Prop_Car_A.fbx using Guid(320890f06b29ef743af9c7fa85b2ef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fee601861439c41a2efface5a901a1') in 0.040036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 28.212289 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/DeepRattle.mp3
+  artifactKey: Guid(da24e095fcd8c4a40816d0c04528c263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/DeepRattle.mp3 using Guid(da24e095fcd8c4a40816d0c04528c263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b2a9b25de631fde46fdbb28ddd276f') in 0.039893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/WindHowl.mp3
+  artifactKey: Guid(232fa66632b579d4cb807897eb2a1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/WindHowl.mp3 using Guid(232fa66632b579d4cb807897eb2a1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cc8912ed6b8c6fb365b094909adadd') in 0.015902 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/LeafRustle.mp3
+  artifactKey: Guid(0064191e8aa6fc945aefce68dc3e44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/LeafRustle.mp3 using Guid(0064191e8aa6fc945aefce68dc3e44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e2161fd3b1a1bc15bd87467bd8f296') in 0.029807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/Taps.mp3
+  artifactKey: Guid(aac2b03c203a5f3438b959e033e7bbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/Taps.mp3 using Guid(aac2b03c203a5f3438b959e033e7bbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfe8a5e1f84a8fc8dffe910ecad9c94') in 0.023819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
