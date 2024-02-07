@@ -274,3 +274,40 @@ Received Import Request.
 Start importing Packages/com.unity.xr.management/package.json using Guid(a8437ae6df3ab4de78c661f8e1148bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62cc6de326d3884d6d92408fb9b3a6b7') in 0.000767 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 238.146382 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/package.json
+  artifactKey: Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/package.json using Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28cb07ff1c299d7abf4d41b5e86f186e') in 0.000974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.594945 seconds.
+  path: Assets/Proxy Games/Low Poly Free Vegetation Kit
+  artifactKey: Guid(2b8b2f878177a004998f238eaa1a338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Proxy Games/Low Poly Free Vegetation Kit using Guid(2b8b2f878177a004998f238eaa1a338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e81de5f132a801ba86092a9961b2b07') in 0.000442 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 301.132745 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Models/Fisher_Boat.fbx
+  artifactKey: Guid(67ba160de4f0b924dbdf3247202d3670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Fisher_Boat.fbx using Guid(67ba160de4f0b924dbdf3247202d3670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9820147ea94f9ab9c5ca337d67b26e7d') in 0.135062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Models/Paddle.fbx
+  artifactKey: Guid(e084d19dfb16d5048904de5a4f3c4f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Paddle.fbx using Guid(e084d19dfb16d5048904de5a4f3c4f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a65e1d2240ddb98128a7d31b433b614') in 0.019216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
