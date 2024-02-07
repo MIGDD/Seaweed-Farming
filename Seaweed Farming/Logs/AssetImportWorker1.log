@@ -15,7 +15,7 @@ C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-58323
+58780
 Successfully changed project path to: C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
 C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,13 +49,13 @@ C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [18652] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 2117777203 [EditorId] 2117777203 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [11448] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 1671694585 [EditorId] 1671694585 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [18652] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 2117777203 [EditorId] 2117777203 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [11448] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 1671694585 [EditorId] 1671694585 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 20.49 ms, found 12 plugins.
-Preloading 1 native plugins for Editor in 0.56 ms.
+Refreshing native plugins compatible for Editor in 18.77 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.54 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2022.3.16f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming/Assets
@@ -70,44 +70,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005617 seconds.
-- Loaded All Assemblies, in  0.275 seconds
+Registered in 0.004626 seconds.
+- Loaded All Assemblies, in  0.280 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.220 seconds
-Domain Reload Profiling: 494ms
-	BeginReloadAssembly (86ms)
+- Finished resetting the current domain, in  0.209 seconds
+Domain Reload Profiling: 488ms
+	BeginReloadAssembly (97ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (27ms)
+	RebuildCommonClasses (29ms)
 	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (48ms)
-	LoadAllAssembliesAndSetupDomain (105ms)
-		LoadAssemblies (84ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (102ms)
+		LoadAssemblies (95ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (103ms)
-			TypeCache.Refresh (102ms)
-				TypeCache.ScanAssembly (91ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (89ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (220ms)
+	FinalizeReload (209ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (174ms)
+		SetupLoadedEditorAssemblies (164ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (7ms)
 			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (119ms)
-			ProcessInitializeOnLoadMethodAttributes (39ms)
+			ProcessInitializeOnLoadAttributes (114ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,8 +115,8 @@ Domain Reload Profiling: 494ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.556 seconds
-Refreshing native plugins compatible for Editor in 10.93 ms, found 12 plugins.
+- Loaded All Assemblies, in  0.552 seconds
+Refreshing native plugins compatible for Editor in 10.54 ms, found 12 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
@@ -147,142 +147,48 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.548 seconds
-Domain Reload Profiling: 1102ms
-	BeginReloadAssembly (127ms)
+- Finished resetting the current domain, in  0.546 seconds
+Domain Reload Profiling: 1096ms
+	BeginReloadAssembly (117ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (19ms)
-	RebuildCommonClasses (25ms)
+	RebuildCommonClasses (28ms)
 	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (361ms)
-		LoadAssemblies (264ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (366ms)
+		LoadAssemblies (265ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (173ms)
-			TypeCache.Refresh (149ms)
-				TypeCache.ScanAssembly (134ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (143ms)
+				TypeCache.ScanAssembly (128ms)
 			ScanForSourceGeneratedMonoScriptInfo (18ms)
 			ResolveRequiredComponents (5ms)
-	FinalizeReload (548ms)
+	FinalizeReload (547ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (419ms)
+		SetupLoadedEditorAssemblies (413ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
+			InitializePlatformSupportModulesInManaged (4ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (59ms)
+			BeforeProcessingInitializeOnLoad (56ms)
 			ProcessInitializeOnLoadAttributes (299ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 10.14 ms, found 12 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
-Unloading 4517 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 90 unused Assets / (0.8 MB). Loaded Objects now: 4996.
-Memory consumption went from 177.7 MB to 176.8 MB.
-Total: 2.913200 ms (FindLiveObjects: 0.282500 ms CreateObjectMapping: 0.156700 ms MarkObjects: 2.172000 ms  DeleteObjects: 0.300900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 543207.255409 seconds.
-  path: Assets/_TerrainAutoUpgrade/layer_GR_Asphalt1_ASGR_Asphalt1_Nd261c09ae55ba1e3.terrainlayer
-  artifactKey: Guid(aca65b2b87238614a8e577824ba09a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_TerrainAutoUpgrade/layer_GR_Asphalt1_ASGR_Asphalt1_Nd261c09ae55ba1e3.terrainlayer using Guid(aca65b2b87238614a8e577824ba09a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f44292c074ebf7f51085a1dbb0cefe') in 0.102006 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.468 seconds
-Refreshing native plugins compatible for Editor in 10.76 ms, found 12 plugins.
-Native extension for WindowsStandalone target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:287 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x00084] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:272 
-  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
-  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <17d9ce77f27a4bd2afb5ba32c9bea976>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <78fe3e0b66cf40fc8dbec96aa3584483>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
-Mono: successfully reloaded assembly
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.746 seconds
-Domain Reload Profiling: 1210ms
-	BeginReloadAssembly (190ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (51ms)
-	RebuildCommonClasses (25ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (23ms)
-	LoadAllAssembliesAndSetupDomain (218ms)
-		LoadAssemblies (268ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (38ms)
-			TypeCache.Refresh (13ms)
-				TypeCache.ScanAssembly (5ms)
-			ScanForSourceGeneratedMonoScriptInfo (17ms)
-			ResolveRequiredComponents (6ms)
-	FinalizeReload (746ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (332ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			SetLoadedEditorAssemblies (2ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (55ms)
-			ProcessInitializeOnLoadAttributes (232ms)
-			ProcessInitializeOnLoadMethodAttributes (33ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
 			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (5ms)
-Refreshing native plugins compatible for Editor in 9.92 ms, found 12 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
-Unloading 4602 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 74 unused Assets / (2.4 MB). Loaded Objects now: 5140.
-Memory consumption went from 181.1 MB to 178.7 MB.
-Total: 3.650800 ms (FindLiveObjects: 0.272200 ms CreateObjectMapping: 0.135000 ms MarkObjects: 2.628100 ms  DeleteObjects: 0.614600 ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 13.56 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 4656 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 92 unused Assets / (0.8 MB). Loaded Objects now: 5137.
+Memory consumption went from 184.1 MB to 183.3 MB.
+Total: 2.821400 ms (FindLiveObjects: 0.270800 ms CreateObjectMapping: 0.129500 ms MarkObjects: 2.150700 ms  DeleteObjects: 0.269700 ms)
 
-Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -298,217 +204,70 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 132.380781 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Fishing_Rod.fbx
-  artifactKey: Guid(7454e17b283ddd442a3b5bdd48b7f86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Fishing_Rod.fbx using Guid(7454e17b283ddd442a3b5bdd48b7f86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf46cedb3394483ab2b185a3cf756ea6') in 0.109066 seconds
+  Time since last request: 544174.913745 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/WindHowl.mp3
+  artifactKey: Guid(232fa66632b579d4cb807897eb2a1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/WindHowl.mp3 using Guid(232fa66632b579d4cb807897eb2a1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276feb263cf886cc8c225690b7196712') in 0.099572 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Scout_Boat.fbx
-  artifactKey: Guid(0e6c567c9eb17644780f66c4dea0324b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Scout_Boat.fbx using Guid(0e6c567c9eb17644780f66c4dea0324b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2733e09dbba09e8b792b0f6f8a62e7') in 0.025693 seconds
+  Time since last request: 0.000026 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/Taps.mp3
+  artifactKey: Guid(aac2b03c203a5f3438b959e033e7bbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/Taps.mp3 using Guid(aac2b03c203a5f3438b959e033e7bbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870672e1bf8b8d9728f951956b4e3c2f') in 0.028852 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000013 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/KayakV1.fbx
-  artifactKey: Guid(98b826e178b19df4bbcffe7bb1480f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/KayakV1.fbx using Guid(98b826e178b19df4bbcffe7bb1480f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57476ce546bb72b6cc72e75f36561ac') in 0.024669 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/JetskiV1.fbx
-  artifactKey: Guid(bb4e271d4c3affa45bd027ab7d1b1e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/JetskiV1.fbx using Guid(bb4e271d4c3affa45bd027ab7d1b1e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3e35804bf5e5df7a1c7695c663b4cf') in 0.024532 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Wood_BoatV1.fbx
-  artifactKey: Guid(fbb5dcac895ea8f48baac0a05c571227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/Wood_BoatV1.fbx using Guid(fbb5dcac895ea8f48baac0a05c571227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60e6be971eeeef9f70da62e0b13db61') in 0.023049 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/KayakV2.fbx
-  artifactKey: Guid(e5842254fae9a5f42995d916c9509a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/1.2 Version/KayakV2.fbx using Guid(e5842254fae9a5f42995d916c9509a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d0acc8401050543305b809b3bed0b6') in 0.023507 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 73.859811 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_bakegameobjectIcon.png
-  artifactKey: Guid(d96e514e0bd388b42af222aab55814eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_bakegameobjectIcon.png using Guid(d96e514e0bd388b42af222aab55814eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee81a5cd4316d2d3021d825eb7e711cf') in 0.024291 seconds
+  path: Assets/Flooded_Grounds/Content/Sounds/DeepRattle.mp3
+  artifactKey: Guid(da24e095fcd8c4a40816d0c04528c263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/DeepRattle.mp3 using Guid(da24e095fcd8c4a40816d0c04528c263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952407a8628e5a4fe23064816fc83548') in 0.029191 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_window_d.png
-  artifactKey: Guid(ba3337fdd7f0ab847a4b657c0aefca36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_window_d.png using Guid(ba3337fdd7f0ab847a4b657c0aefca36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47eb78bce80a183593613d573749230') in 0.012845 seconds
+  Time since last request: 0.000013 seconds.
+  path: Assets/Flooded_Grounds/Content/Sounds/LeafRustle.mp3
+  artifactKey: Guid(0064191e8aa6fc945aefce68dc3e44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Sounds/LeafRustle.mp3 using Guid(0064191e8aa6fc945aefce68dc3e44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83a9ac1e578ba6ab4095820cc4902fe') in 0.037438 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_bakeprefabIcon.png
-  artifactKey: Guid(b3b8fb6d687437d4d969f3b3d095c5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_bakeprefabIcon.png using Guid(b3b8fb6d687437d4d969f3b3d095c5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40887cf7870772333722865018bb71ee') in 0.016965 seconds
+  Time since last request: 241.988437 seconds.
+  path: Assets/Proxy Games/Low Poly Free Vegetation Kit/Materials/Water.mat
+  artifactKey: Guid(94ea32e4f0f6cab4e98928aadb7d9992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Proxy Games/Low Poly Free Vegetation Kit/Materials/Water.mat using Guid(94ea32e4f0f6cab4e98928aadb7d9992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27d17fffa24020799ebeb563c9b617d') in 0.045429 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_removeheIcon.png
-  artifactKey: Guid(c4f829a24248f32468671f355ca48987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_removeheIcon.png using Guid(c4f829a24248f32468671f355ca48987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b47292dd62d0997077f626e0a94703') in 0.011196 seconds
+  Time since last request: 0.000035 seconds.
+  path: Assets/Proxy Games/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 2.prefab
+  artifactKey: Guid(2a4625c7296ca1848bf85307ce47de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Proxy Games/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 2.prefab using Guid(2a4625c7296ca1848bf85307ce47de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cff51900d41aa91996304d57be4dfb') in 0.024129 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 8
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_resetparametersIcon.png
-  artifactKey: Guid(c95a07a3675ec274e89419ed3072ab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_resetparametersIcon.png using Guid(c95a07a3675ec274e89419ed3072ab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b56131d6a0ebffae382aabcdca4142') in 0.013956 seconds
+  Time since last request: 0.000026 seconds.
+  path: Assets/Proxy Games/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 1.prefab
+  artifactKey: Guid(bf0b8499f58daa74abe2fdafdde77681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Proxy Games/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 1.prefab using Guid(bf0b8499f58daa74abe2fdafdde77681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a58327526a4a7fa855b2542decc5fb0') in 0.040651 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 8
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_duplicateassetIcon.png
-  artifactKey: Guid(1d1e32eb578e2eb4a8fdc7147d6d5d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_duplicateassetIcon.png using Guid(1d1e32eb578e2eb4a8fdc7147d6d5d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70b097aa46189e64ad31cfa0e745254') in 0.014798 seconds
+  Time since last request: 0.000025 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/WaterPlane.fbx
+  artifactKey: Guid(c292a97ca5b44af428ac393c78fd8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBackgrounds/WaterPlane.fbx using Guid(c292a97ca5b44af428ac393c78fd8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a4aabbb50610fdd96eadae73c80633') in 0.031683 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_reloadhdaIcon.png
-  artifactKey: Guid(a64706b650acb204e84fbb7d1143ac14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_reloadhdaIcon.png using Guid(a64706b650acb204e84fbb7d1143ac14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06855748ebb804e6ceb0675fed2d899a') in 0.013697 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_section_box_d.png
-  artifactKey: Guid(a06799ed3bf44414ab39fbab1c8c03dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_section_box_d.png using Guid(a06799ed3bf44414ab39fbab1c8c03dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666764dfc2d3953e95106d165cdac59c') in 0.014256 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_section_box.png
-  artifactKey: Guid(64328c0f7f7147c40825d020c1cbcd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Plugins/HoudiniEngineUnity/Resources/heu_ui_section_box.png using Guid(64328c0f7f7147c40825d020c1cbcd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c173d08f128bbbf7ac61a63715cca1') in 0.015699 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 7.527174 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Fishing_Rod.prefab
-  artifactKey: Guid(f2cfc7cd690e6fe4f9678427228e5322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Fishing_Rod.prefab using Guid(f2cfc7cd690e6fe4f9678427228e5322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22dc75ee0ec93583ae5273d77e3d548') in 0.012618 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Scout_Boat.prefab
-  artifactKey: Guid(98db26e894714ab42a5329d6cd767c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Scout_Boat.prefab using Guid(98db26e894714ab42a5329d6cd767c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ad517e07448661021f94ba2ea8dd81') in 0.012067 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Wood_BoatV2.prefab
-  artifactKey: Guid(0579d96e52e9e7843a6c880ce44856ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Wood_BoatV2.prefab using Guid(0579d96e52e9e7843a6c880ce44856ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b9a0e8c08e237cfc4b539a3ece448b') in 0.012043 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Wood_BoatV1.prefab
-  artifactKey: Guid(17c56660cef6fcc4088e1f30292e8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Wood_BoatV1.prefab using Guid(17c56660cef6fcc4088e1f30292e8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9aa6b2cb04dd192330236e3d2e0307') in 0.010909 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Prefabs/Speed_Boat.prefab
-  artifactKey: Guid(aa70f82ba6bc4e64f8b9d77004fde085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Prefabs/Speed_Boat.prefab using Guid(aa70f82ba6bc4e64f8b9d77004fde085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3abe2b6d5fddec8e9b714734f38e50f') in 0.012687 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 1.542019 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Texture/Texture8x8.png
-  artifactKey: Guid(b436f30706f17e44581969d00a2f1cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Texture/Texture8x8.png using Guid(b436f30706f17e44581969d00a2f1cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e3d973661a49707b2fe732e8d7210b') in 0.015609 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 41.723606 seconds.
-  path: Assets/XR/Settings/OpenXR Package Settings.asset
-  artifactKey: Guid(a8cfa1f02500a83449a2700450844e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(a8cfa1f02500a83449a2700450844e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418fad73f9a60f86957ef80bd870d963') in 0.002885 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 52.176202 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Materials/Main PolyPack.mat
-  artifactKey: Guid(add612cfd0b428a49ac1fed73a33d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Materials/Main PolyPack.mat using Guid(add612cfd0b428a49ac1fed73a33d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbc4e7694640cf1ac741a4db2a366e4') in 0.014782 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 1.719883 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/Fishing_Rod.fbx
-  artifactKey: Guid(f3af3c356e2ae6346893512397408e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Fishing_Rod.fbx using Guid(f3af3c356e2ae6346893512397408e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7538eb0e4062b7a06af47ba391bb08') in 0.020730 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/Scout_Boat.fbx
-  artifactKey: Guid(9b7cc2e501ae9c546b416e06ed63191b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Scout_Boat.fbx using Guid(9b7cc2e501ae9c546b416e06ed63191b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43fbb02ba1331d3728a11f54530bcb5') in 0.023860 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/Wood_BoatV1.fbx
-  artifactKey: Guid(8b9c2549002de7a4fbba40dfaf37b661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Wood_BoatV1.fbx using Guid(8b9c2549002de7a4fbba40dfaf37b661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52db9ed00a7c8406706c24cdca0cf2d') in 0.020265 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Alstra Infinite/Boats LowPoly/Models/Speed_Boat.fbx
-  artifactKey: Guid(bd9a454e38c659042a64aed151907719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Speed_Boat.fbx using Guid(bd9a454e38c659042a64aed151907719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9723ad38bf012c573311bcf13d21f3') in 0.022387 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
+Number of asset objects unloaded after import = 7
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
