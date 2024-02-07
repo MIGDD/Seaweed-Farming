@@ -210,3 +210,403 @@ Received Import Request.
 Start importing Assets/XR/Loaders/OculusLoader.asset using Guid(1a2b3cbd77356924088106af503db6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e643eda140c491711aaa809c3cf959') in 0.009430 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 671.624626 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Models/Fishing_Rod.fbx
+  artifactKey: Guid(f3af3c356e2ae6346893512397408e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Fishing_Rod.fbx using Guid(f3af3c356e2ae6346893512397408e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7042b84642052949cada112c0acc9a') in 0.134234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Models/Scout_Boat.fbx
+  artifactKey: Guid(9b7cc2e501ae9c546b416e06ed63191b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Scout_Boat.fbx using Guid(9b7cc2e501ae9c546b416e06ed63191b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8e462b0191d5734cab9c70febf99cd') in 0.019105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Models/Speed_Boat.fbx
+  artifactKey: Guid(bd9a454e38c659042a64aed151907719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Models/Speed_Boat.fbx using Guid(bd9a454e38c659042a64aed151907719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b6aa32cb2c33fdfce6acac3f99cecc') in 0.018240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 85.570110 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Deco_WindowGlass_A.fbx
+  artifactKey: Guid(eb73c6f1d30479e42987fac89f58a3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Deco_WindowGlass_A.fbx using Guid(eb73c6f1d30479e42987fac89f58a3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4a5c6c378d350e8ae753d50f5ecea5') in 0.017501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.005354 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_DM.fbx
+  artifactKey: Guid(7729cb95abf30e449a2f0bd9f6a94191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_DM.fbx using Guid(7729cb95abf30e449a2f0bd9f6a94191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03335c0e1e4709a3b64963e460209dfb') in 0.018904 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Deco_WindowGlass_A.fbx
+  artifactKey: Guid(04cc115979bc5db44b1aa47707cadf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Deco_WindowGlass_A.fbx using Guid(04cc115979bc5db44b1aa47707cadf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec01f28525b5fe97c8c75e8504fc184') in 0.015209 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_End1.fbx
+  artifactKey: Guid(c0922aa6a800c5e4394e696a91c302b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_End1.fbx using Guid(c0922aa6a800c5e4394e696a91c302b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001af759786ec729d3c478ed3d568bc2') in 0.014996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Mid2.fbx
+  artifactKey: Guid(08d225ce47b54c942a29c4403ca7172e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Mid2.fbx using Guid(08d225ce47b54c942a29c4403ca7172e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50818c728a5aa52109e35541e8010ef5') in 0.014760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_End2.fbx
+  artifactKey: Guid(76b891a14b22e284f99bdaf16b10dc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_End2.fbx using Guid(76b891a14b22e284f99bdaf16b10dc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10146698defe677787897fde93c560a8') in 0.014844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Door_A.fbx
+  artifactKey: Guid(c6bf715f38b6c824d9099af62318db45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Door_A.fbx using Guid(c6bf715f38b6c824d9099af62318db45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbacf029b3880bc4a4f6b4cfc9b3a485') in 0.014958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Door_A.fbx
+  artifactKey: Guid(4567fa51052829e48a392b58a304a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Door_A.fbx using Guid(4567fa51052829e48a392b58a304a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d08d2880965c476a221e8f2c4bd059') in 0.014559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Stairs.fbx
+  artifactKey: Guid(b9d7c7cce9875f54ababa1da98d5ab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin1_Stairs.fbx using Guid(b9d7c7cce9875f54ababa1da98d5ab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1c2edf2180b72c38279d5f3da28058') in 0.014515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Ext1.fbx
+  artifactKey: Guid(562ec34fab32b5343886256ef273f218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mCabins/Cabin2_Ext1.fbx using Guid(562ec34fab32b5343886256ef273f218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b396aa95f51e2534f70d5183d9d0568') in 0.013548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 8.745032 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/Indbuilding2_Door_A.fbx
+  artifactKey: Guid(43c3f14f7d9acf14388cccf98d4f85c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/Indbuilding2_Door_A.fbx using Guid(43c3f14f7d9acf14388cccf98d4f85c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3f051b5a66e82e0ee3167824aa644c') in 0.013608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.004840 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/IndBuilding2_End_B.fbx
+  artifactKey: Guid(4d9b6bb62def1824c9aa80caf387f94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/IndBuilding2_End_B.fbx using Guid(4d9b6bb62def1824c9aa80caf387f94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad768f402c08a75099b97dd31b8ea73') in 0.014116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/IndBuilding2_Mid_A.fbx
+  artifactKey: Guid(b5602b5f98f59ef48a78d738df9103ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding2/IndBuilding2_Mid_A.fbx using Guid(b5602b5f98f59ef48a78d738df9103ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a066cd617f16d68c2c8af74a836919d2') in 0.016776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.750332 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Base_Mid_A.fbx
+  artifactKey: Guid(6abd91808b5cc3c4392a9391849a70b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Base_Mid_A.fbx using Guid(6abd91808b5cc3c4392a9391849a70b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ca862aec8730efd63dab18508a2e24') in 0.015088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.002168 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_Column_Mid.fbx
+  artifactKey: Guid(62d83d3d48cd5f64c952f2f39c31bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_Column_Mid.fbx using Guid(62d83d3d48cd5f64c952f2f39c31bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce83626e0d5be273291d5eabc77e4aa') in 0.014761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.001820 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_Handrail_Cor_A_COL.fbx
+  artifactKey: Guid(dcfdf3610a3dca945a5224d2a54fb916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_Handrail_Cor_A_COL.fbx using Guid(dcfdf3610a3dca945a5224d2a54fb916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a17cca465580b347d8254bf2160c03') in 0.014676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.003108 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_IntColumn_Mid.fbx
+  artifactKey: Guid(92b4903c992f04e46b7c2be84d2126e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Deco_IntColumn_Mid.fbx using Guid(92b4903c992f04e46b7c2be84d2126e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe5683876d75a5717fa7d248cd34f3f') in 0.014744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/Indbuilding1_Door_A.fbx
+  artifactKey: Guid(8610ede41c464044a9665db06f599c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/Indbuilding1_Door_A.fbx using Guid(8610ede41c464044a9665db06f599c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928bb6a985f1078193720e3113149c83') in 0.014577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.002431 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Floor_Mid_A.fbx
+  artifactKey: Guid(6310ba51076eae64eb0f6d3b82cc6990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Floor_Mid_A.fbx using Guid(6310ba51076eae64eb0f6d3b82cc6990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e581bfa5972eed14b5f803c7cb9ec2') in 0.013958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.002966 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_IntStairs_A_COL.fbx
+  artifactKey: Guid(12bd36b88d9090c4d9915013adb0d582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_IntStairs_A_COL.fbx using Guid(12bd36b88d9090c4d9915013adb0d582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c69f3876049aa259c84143d85a342b') in 0.014594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.002012 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Top_Cor_A.fbx
+  artifactKey: Guid(7cc751b4f8c439d4ba7ea28aa8fb3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mIndBuilding1/IndBuilding1_Top_Cor_A.fbx using Guid(7cc751b4f8c439d4ba7ea28aa8fb3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdce358fa90e597578d2499deefcfb7c') in 0.014234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 22.637617 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_CobbleRock_B.fbx
+  artifactKey: Guid(89bf544328b22bc4da0d56896518402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_CobbleRock_B.fbx using Guid(89bf544328b22bc4da0d56896518402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245ea6cb89cf611d3555835a4d0fbe5e') in 0.030724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_Rock_A.fbx
+  artifactKey: Guid(9345f632db63d60489ffbd611651385e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_Rock_A.fbx using Guid(9345f632db63d60489ffbd611651385e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5309fbb7e1095254e2c525a14517a128') in 0.032851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_Rock_B.fbx
+  artifactKey: Guid(5194e6cdfd55bf8438ebf6e665a18e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mRocks/lo_Rock_B.fbx using Guid(5194e6cdfd55bf8438ebf6e665a18e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ae388361071b819131588b39843b1f') in 0.029457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 105.135184 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Mid_A.fbx
+  artifactKey: Guid(abb38988e3920b34b8694fa4e1f0193c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Mid_A.fbx using Guid(abb38988e3920b34b8694fa4e1f0193c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0afeacbec5a08e608239b7090209927') in 0.014860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Stairs_A.fbx
+  artifactKey: Guid(6ffd7e9a2e2250941b5ab74292e78c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Stairs_A.fbx using Guid(6ffd7e9a2e2250941b5ab74292e78c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b55f5f5f0015aa28e6936a6cbf12e3') in 0.013238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Column_Top_A.fbx
+  artifactKey: Guid(b9a58136eccdcba49a7bb3b09b3036da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Column_Top_A.fbx using Guid(b9a58136eccdcba49a7bb3b09b3036da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48da20fe4eb5bd30cae3b344a82d150c') in 0.016088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Handrail1_Cor_A.fbx
+  artifactKey: Guid(d895d8176d5919c4d9768b82383a749f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Handrail1_Cor_A.fbx using Guid(d895d8176d5919c4d9768b82383a749f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf8276bcbf92df141e4aa1dd612e21c') in 0.014116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.005299 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Handrail1_Mid_A_DM.fbx
+  artifactKey: Guid(32435c86cf2039a4da130e4d12df7907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_Handrail1_Mid_A_DM.fbx using Guid(32435c86cf2039a4da130e4d12df7907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64107b76a3197cb7d232d62737c2cf62') in 0.014896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_WindowGlass_A.fbx
+  artifactKey: Guid(c72be62dd9ba7fd479707075388b6e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_WindowGlass_A.fbx using Guid(c72be62dd9ba7fd479707075388b6e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69917cbbbb3a377165da9ee48e156788') in 0.015213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Stairs_A_COL.fbx
+  artifactKey: Guid(e7c1a8b720a24e044b003bd80fa39ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Base_Stairs_A_COL.fbx using Guid(e7c1a8b720a24e044b003bd80fa39ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac1e39b7c5cef953b760ae3a141844c') in 0.013645 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Ext_A.fbx
+  artifactKey: Guid(d4f6d897a9fc78244bb719468f1569c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Ext_A.fbx using Guid(d4f6d897a9fc78244bb719468f1569c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b1ee03c7c74b241aa2abe25b7fa03e') in 0.015392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Ext_B.fbx
+  artifactKey: Guid(3f8a4d9756e417441a95a1013bd3c8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Ext_B.fbx using Guid(3f8a4d9756e417441a95a1013bd3c8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f65b207855283ff9e311cecdf25f15a') in 0.016300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_B.fbx
+  artifactKey: Guid(a8c5be48229be9341b36a57934f9ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_B.fbx using Guid(a8c5be48229be9341b36a57934f9ea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb83f29f1177fc04c28df5220d39289') in 0.013534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_IntStairs_A.fbx
+  artifactKey: Guid(70e5c6c9abcfa38428f7dec2ae1298ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_IntStairs_A.fbx using Guid(70e5c6c9abcfa38428f7dec2ae1298ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac30b35651cc5f1a4320acce660e35a') in 0.013946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_IntStairs_A_COL.fbx
+  artifactKey: Guid(866dc36537d3fbc4b85b2c6482d97135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_IntStairs_A_COL.fbx using Guid(866dc36537d3fbc4b85b2c6482d97135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7773e52ca64efca48325a9b78df0d5de') in 0.014495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Top_Cor1.fbx
+  artifactKey: Guid(a8348a8caf68b214e8b9aced3556e8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Top_Cor1.fbx using Guid(a8348a8caf68b214e8b9aced3556e8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beff2df8f38a85f48e4bf715b6e2f007') in 0.013071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Top_Mid_A.fbx
+  artifactKey: Guid(1ea5ad505437e9a4f802fb6a24c402cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Top_Mid_A.fbx using Guid(1ea5ad505437e9a4f802fb6a24c402cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b91a44bccde199245e45ddfaf138124') in 0.013947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_WindowGlass_C.fbx
+  artifactKey: Guid(6afaa8d7b325f4b468c5db0d0cf0d3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Deco_WindowGlass_C.fbx using Guid(6afaa8d7b325f4b468c5db0d0cf0d3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0a538e385003936af2e3844524072d') in 0.013368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_C.fbx
+  artifactKey: Guid(fbdc0b46211af014dbc348bcceba3018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_C.fbx using Guid(fbdc0b46211af014dbc348bcceba3018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8babdec0c227151617ee7b939689df13') in 0.012828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_A.fbx
+  artifactKey: Guid(2d0a5922ec5df8744a7ee8432238ba3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Floor_Mid_A.fbx using Guid(2d0a5922ec5df8744a7ee8432238ba3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c7a810543ca9112628443efe918174') in 0.013930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Door_A.fbx
+  artifactKey: Guid(6a1cbdbcd9f735f45beaa6e43bf6255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla1/Villa1_Door_A.fbx using Guid(6a1cbdbcd9f735f45beaa6e43bf6255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e0bcf01ddbe0cbbed5bd69c37e49be') in 0.021034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 9.281079 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mBushes/DecoBush_C.fbx
+  artifactKey: Guid(2f0bb1032b48d5845966aa580a118718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mBushes/DecoBush_C.fbx using Guid(2f0bb1032b48d5845966aa580a118718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e8b1b5378bca5e6f4f7cc3e10809b3') in 0.019896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.721643 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Med_C.fbx
+  artifactKey: Guid(de0566628568cba439f3bac219290d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Med_C.fbx using Guid(de0566628568cba439f3bac219290d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c97dd547f2cb6031d045db243d0e97b') in 0.015449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000916 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Small_C.fbx
+  artifactKey: Guid(ba45a76b7b45f27419de4b1326102dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Small_C.fbx using Guid(ba45a76b7b45f27419de4b1326102dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1172e4a98551d6c088bb88780803cf') in 0.014627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.001252 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Tall_B.fbx
+  artifactKey: Guid(5502328da92d24740a90a78763d613d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mNature/mGrass/Grass_Tall_B.fbx using Guid(5502328da92d24740a90a78763d613d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4d2073180e174a195cc8405c330041') in 0.014773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 306.755378 seconds.
+  path: Assets/Alstra Infinite/Boats LowPoly/Materials/Main PolyPack.mat
+  artifactKey: Guid(add612cfd0b428a49ac1fed73a33d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Boats LowPoly/Materials/Main PolyPack.mat using Guid(add612cfd0b428a49ac1fed73a33d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df46b8aea85261b802c37360210e6cd') in 0.023191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
