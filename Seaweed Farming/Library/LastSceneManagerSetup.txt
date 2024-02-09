@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/Base_Farm.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a8a1ec3c36e9625496bc18d3914c49472cdd1d6e9628184e56f93e5c5ee31af
+size 95
