@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 32489 MB
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16322 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity 2022.3.16f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
+C:/Users/aucon/migddswfclass/Seaweed-Farming/Seaweed Farming
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58780
-Successfully changed project path to: C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
-C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
+52743
+Successfully changed project path to: C:/Users/aucon/migddswfclass/Seaweed-Farming/Seaweed Farming
+C:/Users/aucon/migddswfclass/Seaweed-Farming/Seaweed Farming
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,65 +49,68 @@ C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [7072] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 365246132 [EditorId] 365246132 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [38548] Host "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 1055241019 [EditorId] 1055241019 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-09F24SQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [7072] Host "[IP] 192.168.167.127 [Port] 0 [Flags] 2 [Guid] 365246132 [EditorId] 365246132 [Version] 1048832 [Id] WindowsEditor(7,ODU-130702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [38548] Host "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 1055241019 [EditorId] 1055241019 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-09F24SQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 17.46 ms, found 12 plugins.
-Preloading 1 native plugins for Editor in 0.45 ms.
+Refreshing native plugins compatible for Editor in 56.13 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2022.3.16f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/aconn008/G395_u/Seaweed-Farming/Seaweed Farming/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aucon/migddswfclass/Seaweed-Farming/Seaweed Farming/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon Pro W5500 (ID=0x7341)
-    Vendor:   ATI
-    VRAM:     8151 MB
-    Driver:   31.0.12016.9
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8011 MB
+    Driver:   30.0.14.7247
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity 2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity 2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004486 seconds.
-- Loaded All Assemblies, in  0.283 seconds
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011813 seconds.
+- Loaded All Assemblies, in  0.345 seconds
 Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1758 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.209 seconds
-Domain Reload Profiling: 491ms
-	BeginReloadAssembly (96ms)
+- Finished resetting the current domain, in  2.070 seconds
+Domain Reload Profiling: 2413ms
+	BeginReloadAssembly (103ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (33ms)
-	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (43ms)
-	LoadAllAssembliesAndSetupDomain (102ms)
-		LoadAssemblies (94ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (138ms)
+		LoadAssemblies (101ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (100ms)
-			TypeCache.Refresh (99ms)
-				TypeCache.ScanAssembly (89ms)
+		AnalyzeDomain (136ms)
+			TypeCache.Refresh (135ms)
+				TypeCache.ScanAssembly (121ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (210ms)
+	FinalizeReload (2071ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (165ms)
+		SetupLoadedEditorAssemblies (2020ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (7ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (1866ms)
+			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (114ms)
-			ProcessInitializeOnLoadMethodAttributes (36ms)
+			ProcessInitializeOnLoadAttributes (103ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,9 +118,10 @@ Domain Reload Profiling: 491ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.548 seconds
-Refreshing native plugins compatible for Editor in 10.71 ms, found 12 plugins.
+- Loaded All Assemblies, in  0.680 seconds
+Refreshing native plugins compatible for Editor in 15.49 ms, found 12 plugins.
 Native extension for WindowsStandalone target not found
+Native extension for Android target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
@@ -147,47 +151,59 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.546 seconds
-Domain Reload Profiling: 1092ms
-	BeginReloadAssembly (117ms)
+- Finished resetting the current domain, in  0.671 seconds
+Domain Reload Profiling: 1346ms
+	BeginReloadAssembly (138ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (19ms)
-	RebuildCommonClasses (25ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (362ms)
-		LoadAssemblies (262ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (451ms)
+		LoadAssemblies (313ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (165ms)
-			TypeCache.Refresh (141ms)
-				TypeCache.ScanAssembly (126ms)
-			ScanForSourceGeneratedMonoScriptInfo (18ms)
-			ResolveRequiredComponents (5ms)
-	FinalizeReload (546ms)
+		AnalyzeDomain (221ms)
+			TypeCache.Refresh (186ms)
+				TypeCache.ScanAssembly (167ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (671ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (413ms)
+		SetupLoadedEditorAssemblies (512ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (4ms)
+			InitializePlatformSupportModulesInManaged (24ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (56ms)
-			ProcessInitializeOnLoadAttributes (295ms)
-			ProcessInitializeOnLoadMethodAttributes (49ms)
-			AfterProcessingInitializeOnLoad (5ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (344ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (9ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (5ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 11.56 ms, found 12 plugins.
-Preloading 1 native plugins for Editor in 0.06 ms.
-Unloading 4656 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 92 unused Assets / (0.8 MB). Loaded Objects now: 5137.
-Memory consumption went from 184.1 MB to 183.3 MB.
-Total: 3.151200 ms (FindLiveObjects: 0.298700 ms CreateObjectMapping: 0.159700 ms MarkObjects: 2.400000 ms  DeleteObjects: 0.291500 ms)
+Failed to load shader (instanceID 484, GUID 0bf05e2bc475d7d43a5564d7f06d6917)
+Failed to load shader (instanceID 478, GUID a888b88340a5dd54f84975d408b6b039)
+Failed to load shader (instanceID 474, GUID b1787a138f9f99b4eb9e65ee8c808ec7)
+Failed to load shader (instanceID 414, GUID c42ce9a27ea6fb444ae87b49dc21c23e)
+Failed to load shader (instanceID 418, GUID 6d74b6647c6a8244793871f05140fe32)
+Failed to load shader (instanceID 426, GUID 56e01684409c0f740b8acfe62e330a33)
+Failed to load shader (instanceID 428, GUID db6aa165e16df4c468e10d58b72a89b0)
+Failed to load shader (instanceID 480, GUID ba51759ac9acdfc45a7b7495d01b967c)
+Failed to load shader (instanceID 476, GUID 71ee76fb644fac74a88ceedc3eff589e)
+Failed to load shader (instanceID 482, GUID 2d884f42f9082a341ab213a39fcd5046)
+Failed to load shader (instanceID 472, GUID 5258021c7478f574ba3377ea5d46ed51)
+Failed to load shader (instanceID 466, GUID db31f891f3edf1e49bcd407afef5c3da)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 14.98 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 4513 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 87 unused Assets / (366.5 KB). Loaded Objects now: 4996.
+Memory consumption went from 180.5 MB to 180.1 MB.
+Total: 3.150600 ms (FindLiveObjects: 0.342600 ms CreateObjectMapping: 0.312500 ms MarkObjects: 2.289400 ms  DeleteObjects: 0.205300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -204,22 +220,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 544174.889235 seconds.
-  path: Assets/Flooded_Grounds/Content/Sounds/Horn.mp3
-  artifactKey: Guid(560cd90a01d7d4040bfc37a476b2a7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Flooded_Grounds/Content/Sounds/Horn.mp3 using Guid(560cd90a01d7d4040bfc37a476b2a7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d4f0f34adf576b27b908c5f4d9c1c2') in 0.101465 seconds
+  Time since last request: 1206323.940353 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(ae7120032c5d3604cbc30e65c5577f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(ae7120032c5d3604cbc30e65c5577f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58323d8b931f52016e038a88fd60843e') in 0.013427 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Flooded_Grounds/Content/Sounds/Background.mp3
-  artifactKey: Guid(fb1bae38399f65b49afbec6f762e733b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Flooded_Grounds/Content/Sounds/Background.mp3 using Guid(fb1bae38399f65b49afbec6f762e733b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a7e766e92397d2bd874a77098bdea2') in 0.084790 seconds
+  Time since last request: 141.098874 seconds.
+  path: Assets/XR/Settings
+  artifactKey: Guid(f09f3bb593a994f4cb48449e86197d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings using Guid(f09f3bb593a994f4cb48449e86197d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3888b15390a2f072e8ec5fd18fce6ee') in 0.000739 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.270658 seconds.
+  path: Assets/XR/Settings/OpenXR Package Settings.asset
+  artifactKey: Guid(a8cfa1f02500a83449a2700450844e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(a8cfa1f02500a83449a2700450844e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af6df9530b552b864e95b9c64769abc') in 0.003607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
