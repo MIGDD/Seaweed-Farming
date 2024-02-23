@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaughtyWaterBuoyancy.Core", "NaughtyWaterBuoyancy.Core.csproj", "{8940863C-9A17-791D-49E4-D5117F8F0C6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crest", "Crest.csproj", "{700631B8-CB89-97FF-0CB8-158D120A17F1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crest.Examples", "Crest.Examples.csproj", "{741116BD-72E7-6C6B-1916-4BE10BA476DE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crest.Helpers.Editor", "Crest.Helpers.Editor.csproj", "{442CBB0F-733A-190A-0D1A-68C3CA9952D9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaughtyWaterBuoyancy.Editor", "NaughtyWaterBuoyancy.Editor.csproj", "{6008F4D4-8D68-69E1-3136-DDAD80244316}"
 EndProject
 Global
@@ -21,18 +15,6 @@ Global
 		{8940863C-9A17-791D-49E4-D5117F8F0C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8940863C-9A17-791D-49E4-D5117F8F0C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8940863C-9A17-791D-49E4-D5117F8F0C6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{700631B8-CB89-97FF-0CB8-158D120A17F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{700631B8-CB89-97FF-0CB8-158D120A17F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{700631B8-CB89-97FF-0CB8-158D120A17F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{700631B8-CB89-97FF-0CB8-158D120A17F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{741116BD-72E7-6C6B-1916-4BE10BA476DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{741116BD-72E7-6C6B-1916-4BE10BA476DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{741116BD-72E7-6C6B-1916-4BE10BA476DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{741116BD-72E7-6C6B-1916-4BE10BA476DE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{442CBB0F-733A-190A-0D1A-68C3CA9952D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{442CBB0F-733A-190A-0D1A-68C3CA9952D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{442CBB0F-733A-190A-0D1A-68C3CA9952D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{442CBB0F-733A-190A-0D1A-68C3CA9952D9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6008F4D4-8D68-69E1-3136-DDAD80244316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6008F4D4-8D68-69E1-3136-DDAD80244316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6008F4D4-8D68-69E1-3136-DDAD80244316}.Release|Any CPU.ActiveCfg = Release|Any CPU
