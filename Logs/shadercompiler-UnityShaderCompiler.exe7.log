@@ -1,0 +1,8 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=5361 file=Assets/Crest/Crest/Shaders/Resources/FFT/FFTCompute.compute kernel=ComputeFFT ppOnly=0 stripLineD=0 buildPlatform=13 km=<SIZE=32>,<PASSES=5>,<CHANNEL=y>,<TX=1>,<TY=32>,<FINAL=1>,<UNITY_VERSION=202239> pKW=UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_RGBM_ENCODING UNITY_ASTC_NORMALMAP_ENCODING uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=268435456 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=5542
+
+
+Cmd: shutdown
